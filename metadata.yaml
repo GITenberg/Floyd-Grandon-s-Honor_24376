@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9482'
     url: http://www.gutenberg.org/2009/agents/9482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24376#Floyd-Grandon-s-Honor
 gutenberg_issued: '2008-01-20'
 gutenberg_type: Text
 identifiers:
